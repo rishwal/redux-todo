@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/rishwal/redux-todo/static/css/main.d8f449ae.css",
-    "main.js": "/rishwal/redux-todo/static/js/main.fe2e86f9.js",
-    "static/js/787.8eb42f38.chunk.js": "/rishwal/redux-todo/static/js/787.8eb42f38.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/rishwal/redux-todo/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
-    "static/media/bootstrap-icons.woff2?": "/rishwal/redux-todo/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
-    "index.html": "/rishwal/redux-todo/index.html",
-    "main.d8f449ae.css.map": "/rishwal/redux-todo/static/css/main.d8f449ae.css.map",
-    "main.fe2e86f9.js.map": "/rishwal/redux-todo/static/js/main.fe2e86f9.js.map",
-    "787.8eb42f38.chunk.js.map": "/rishwal/redux-todo/static/js/787.8eb42f38.chunk.js.map"
+    "main.css": "/redux-todo/static/css/main.83ab42bc.css",
+    "main.js": "/redux-todo/static/js/main.6e85ce19.js",
+    "static/js/787.8eb42f38.chunk.js": "/redux-todo/static/js/787.8eb42f38.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/redux-todo/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/redux-todo/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/redux-todo/index.html",
+    "main.83ab42bc.css.map": "/redux-todo/static/css/main.83ab42bc.css.map",
+    "main.6e85ce19.js.map": "/redux-todo/static/js/main.6e85ce19.js.map",
+    "787.8eb42f38.chunk.js.map": "/redux-todo/static/js/787.8eb42f38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8f449ae.css",
-    "static/js/main.fe2e86f9.js"
+    "static/css/main.83ab42bc.css",
+    "static/js/main.6e85ce19.js"
   ]
 }
