@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rishwal/todo-redux/static/css/main.5c6f5ee2.css",
+    "main.js": "/rishwal/todo-redux/static/js/main.d62d52fa.js",
+    "static/js/787.8eb42f38.chunk.js": "/rishwal/todo-redux/static/js/787.8eb42f38.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/rishwal/todo-redux/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/rishwal/todo-redux/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/rishwal/todo-redux/index.html",
+    "main.5c6f5ee2.css.map": "/rishwal/todo-redux/static/css/main.5c6f5ee2.css.map",
+    "main.d62d52fa.js.map": "/rishwal/todo-redux/static/js/main.d62d52fa.js.map",
+    "787.8eb42f38.chunk.js.map": "/rishwal/todo-redux/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c6f5ee2.css",
+    "static/js/main.d62d52fa.js"
+  ]
+}
