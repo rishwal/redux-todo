@@ -69,11 +69,10 @@ const todoSlice = createSlice({
 
             reducer(state, action) {
                 state.unshift(action.payload)
-            }
+            },
         },
 
         removeTodo: {
-
             reducer(state, action) {
                 return state.filter(todo => todo.id !== action.payload);
             }
