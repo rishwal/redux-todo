@@ -1,0 +1,95 @@
+#main .container {
+  margin-top: 50px;
+ 
+}
+#main .container .row .column {
+  padding: auto;
+}
+
+.deleteIcon {
+  visibility: hidden;
+}
+
+.todo:hover .deleteIcon {
+  visibility: visible;
+}
+
+#main .container .row .column .todo .dateSpan {
+  display: flex;
+  position: absolute;
+  width: 600px;
+  height: 10%;
+}
+
+#main .container .row .column .todo {
+  padding: 20px;
+  max-height: 100px;
+  max-width: 400px;
+  border-radius: 35px;
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+}
+
+.bi {
+  cursor: pointer;
+}
+@media only screen and (max-width: 767px) {
+  #main .container .row .column .todo {
+    max-width: fit-content;
+  }
+}
+
+#main .container .row .column .todo .bi-circle {
+  font-size: 200%;
+}
+#main .container .row .column .todo .bi-check2-circle {
+  font-size: 200%;
+}
+#main .container .row .column .todo span {
+  height: auto;
+  overflow: auto;
+  text-align: left;
+  width: 80%;
+}
+.column .todo span::-webkit-scrollbar {
+  display: none;
+}
+.deleteIcon {
+  align-self: center;
+  font-size: 150px;
+  cursor: pointer;
+}
+.cancelBtn {
+  cursor: pointer;
+  align-self: center;
+  font-size: 180px;
+  display: none;
+}
+
+@media screen and (max-width: 546px) {
+  #main .container {
+    margin-top: 30px;
+  }
+
+  #main .container .row .column .todo{
+    height: 80px;
+  }
+
+  .cancelBtn{
+    font-size: 50px;
+  }
+  #main .container .row .column .todo .dateSpan {
+    width: 130px;
+    font-size: 12px;
+  }
+  .deleteIcon {
+    font-size: 35px;
+  }
+}
+
+@media screen and (max-width: 756px) {
+  .deleteIcon {
+    font-size: 45px;
+  }
+}
